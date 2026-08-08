@@ -25,3 +25,11 @@ Children may respond positively to:
 - Opportunities to explore independently
 ## Goal
 The goal is to understand potential users, encourage adoption, collect meaningful feedback and identify ways an open-source project could improve its user experience and community engagement.
+## User Research Questions
+To better understand potential users, I would investigate:
+1. Why would parents choose a language-learning app for their children instead of hiring a teacher?
+2. What concerns do parents have about their children using digital devices at an early age?
+3. Would parents be willing and able to pay for a subscription?
+4. What features would parents expect from a children's language-learning app?
+5. Are their children interested in learning languages through an app?
+6. What would make parents consider the app valuable enough to pay for?
